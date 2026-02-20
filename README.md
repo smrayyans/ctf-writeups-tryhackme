@@ -9,3 +9,4 @@ Writeups:
 - [TakeOver](https://github.com/smrayyans/ctf-writeups-tryhackme/blob/main/TakeOver.md)
 - [The-Game](https://github.com/smrayyans/ctf-writeups-tryhackme/blob/main/The-Game.md)
 - [Compiled](https://github.com/smrayyans/ctf-writeups-tryhackme/blob/main/Compiled.md)
+- [Smol](https://github.com/smrayyans/ctf-writeups-tryhackme/blob/main/Smol.md)
