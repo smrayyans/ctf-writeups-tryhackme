@@ -10,3 +10,4 @@ Writeups:
 - [The-Game](https://github.com/smrayyans/ctf-writeups-tryhackme/blob/main/The-Game.md)
 - [Compiled](https://github.com/smrayyans/ctf-writeups-tryhackme/blob/main/Compiled.md)
 - [Smol](https://github.com/smrayyans/ctf-writeups-tryhackme/blob/main/Smol.md)
+- [Bricks-Heist](https://github.com/smrayyans/ctf-writeups-tryhackme/blob/main/Bricks-Heist.md)
