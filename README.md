@@ -12,3 +12,4 @@ Writeups:
 - [Smol](https://github.com/smrayyans/ctf-writeups-tryhackme/blob/main/Smol.md)
 - [Bricks-Heist](https://github.com/smrayyans/ctf-writeups-tryhackme/blob/main/Bricks-Heist.md)
 - [Pickle-Rick](https://github.com/smrayyans/ctf-writeups-tryhackme/blob/main/Pickle-Rick.md)
+- [MrRobot](https://github.com/smrayyans/ctf-writeups-tryhackme/blob/main/MrRobot.md)
